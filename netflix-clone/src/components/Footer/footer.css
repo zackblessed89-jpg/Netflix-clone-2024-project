@@ -1,0 +1,61 @@
+/* FOOTER OUTER CONTAINER */
+.footer_outer_container {
+    background: color #111;;
+    color: gray;
+    display: flex;
+    justify-content: center;
+
+}
+.footer_inner_container {
+    width: 80%;
+
+}
+
+/* FOOTER ICON */
+.footer_icons {
+    width: 12%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    color: #fff;
+}
+/* FOOTER DATA */
+.footer_data {
+    display:flex;
+    justify-content: space-between;
+}
+
+/* FOOTER DATA */
+.footer_data ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 12vh;
+
+}
+
+/* FOOTER UL LI */
+.footer_data ul li {
+    cursor: pointer;
+    padding-block: 5px;
+}
+
+
+/* SERVICE CODE */
+.service_code {
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    border: #fff 1px solid;
+    width:  100%;
+    margin: 10px 0;
+    cursor: pointer;
+    padding: 5px;
+}
+
+/* COPY RIGHT */
+.copy-right {
+    font-size: 12px;
+    margin-bottom: 10px;
+}
