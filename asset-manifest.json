@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/static/css/main.ddcb40d3.css",
-    "main.js": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/static/js/main.5e0a59e2.js",
-    "static/media/NetflixLogo.png": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/static/media/NetflixLogo.3cf4485ca5639e838bdb.png",
-    "index.html": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/index.html",
-    "main.ddcb40d3.css.map": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/static/css/main.ddcb40d3.css.map",
-    "main.5e0a59e2.js.map": "/zackblessed89-jpg.github.io/Net-fli-x-clone-2024-project/static/js/main.5e0a59e2.js.map"
+    "main.css": "/Net-fli-x-clone-2024-project/static/css/main.ddcb40d3.css",
+    "main.js": "/Net-fli-x-clone-2024-project/static/js/main.c09623b4.js",
+    "static/media/NetflixLogo.png": "/Net-fli-x-clone-2024-project/static/media/NetflixLogo.3cf4485ca5639e838bdb.png",
+    "index.html": "/Net-fli-x-clone-2024-project/index.html",
+    "main.ddcb40d3.css.map": "/Net-fli-x-clone-2024-project/static/css/main.ddcb40d3.css.map",
+    "main.c09623b4.js.map": "/Net-fli-x-clone-2024-project/static/js/main.c09623b4.js.map"
   },
   "entrypoints": [
     "static/css/main.ddcb40d3.css",
-    "static/js/main.5e0a59e2.js"
+    "static/js/main.c09623b4.js"
   ]
 }
